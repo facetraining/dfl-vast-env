@@ -1,0 +1,6 @@
+*.npy
+*.mp4
+*.zip
+*.tar.gz
+.DS_Store
+workspace/
